@@ -1,0 +1,21 @@
+body {
+    font-family: 'Gothic A1', sans-serif;
+    background: grey;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.header-link {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.33;
+    color: #FFFFFF;
+}
