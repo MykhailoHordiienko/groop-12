@@ -86,3 +86,28 @@ ul {
   line-height: 1.88;
   color: #6b6b6b;
 }
+
+/* Benefits */
+.benefits {
+  background-color: #fff;
+}
+
+.benefits-list {
+}
+
+.benefits-title {
+  font-size: 18px;
+  line-height: 1.33;
+  text-align: center;
+  color: #000000;
+}
+
+.benefits-item {
+}
+
+.benefits-text {
+  font-size: 16px;
+  line-height: 1.88;
+  text-align: center;
+  color: #6b6b6b;
+}
