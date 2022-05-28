@@ -47,3 +47,15 @@ ul {
   padding: 20px 40px;
   cursor: pointer;
 }
+/* aenean */
+.aenean-text{
+font-size: 12px;
+line-height: 1.67;
+color: #A8A8A8;
+}
+.aenean-title{
+font-weight: 400;
+font-size: 38px;
+line-height: 1.26;
+color: #FFFFFF;
+}
