@@ -1,21 +1,49 @@
 body {
-    font-family: 'Gothic A1', sans-serif;
-    background: grey;
+  font-family: 'Gothic A1', sans-serif;
+  background: grey;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 .header-link {
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 1.33;
-    color: #FFFFFF;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.33;
+  color: #ffffff;
+}
+
+/* hero */
+.hero-title {
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 1;
+  color: #ffffff;
+}
+
+.hero-text {
+  font-size: 30px;
+  line-height: 1.47;
+  color: #ffffff;
+}
+
+.hero-button {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  color: #ffffff;
+  background: #fc0a7e;
+  border-radius: 3px;
+  border: none;
+  padding: 20px 40px;
+  cursor: pointer;
 }
